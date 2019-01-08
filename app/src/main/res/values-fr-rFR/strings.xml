@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Humeur</string>
+    <string name="normal_mood">humeur normal </string>
+    <string name="bad_mood">normal mood</string>
+    <string name="very_bad_mood">normal mood</string>
+    <string name="good_mood">normal mood</string>
+    <string name="very_good_mood">normal mood</string>
+    <string name="comment_btn">commentaire</string>
+    <string name="historical_btn">historique</string>
+    <string name="edit_comment">enter votre commentaire</string>
+    <string name="seven_days">il y a sept jours</string>
+    <string name="six_days">il y a six jours</string>
+    <string name="five_days">il y a cinq jours</string>
+    <string name="four_days">il y a quatre jours</string>
+    <string name="tree_days">il y a trois jours</string>
+    <string name="two_days">hier</string>
+    <string name="one_days">aujourd hui</string>
+    <string name="alertDialogTitle">entrer votre commentaire</string>
+    <string name="positiveBtn">valider</string>
+    <string name="negativeBtn">annuler</string>
+    <string name="verySad">je suis en tres colere </string>
+    <string name="sad">je suis en colere </string>
+    <string name="normal">je suis bien </string>
+    <string name="happy">je suis heureux </string>
+    <string name="veryHappy">je suis tres heureux </string>
+    <string name="share">partager</string>
+
+</resources>
